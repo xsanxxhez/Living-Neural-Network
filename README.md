@@ -63,6 +63,7 @@
 <!-- Add screenshot or GIF here -->
 <p align="center">
   <br>
+    <img width="1407" height="816" alt="image" src="https://github.com/user-attachments/assets/434f59b1-972d-480b-958b-fc2d1869e160" />
   <em>Draw in real-time and watch the network respond</em>
 </p>
 
