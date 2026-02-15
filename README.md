@@ -62,7 +62,7 @@
 ### Real-time Drawing & Prediction
 <!-- Add screenshot or GIF here -->
 <p align="center">
-     ![2026-02-1521 00 09-ezgif com-crop](https://github.com/user-attachments/assets/d6f1b6f9-3bae-46b7-ad6d-a092cda82a35)
+     ![Demo](https://github.com/user-attachments/assets/d6f1b6f9-3bae-46b7-ad6d-a092cda82a35)
 
   <br>
   <em>Draw in real-time and watch the network respond</em>
