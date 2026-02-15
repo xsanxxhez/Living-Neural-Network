@@ -1,6 +1,6 @@
 # Living Neural Network Visualizer
 
-> **An interactive, real-time CNN visualization system with Jarvis-style aesthetics**
+> **An interactive, real-time CNN visualization system**
 
 <div align="center">
 
