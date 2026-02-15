@@ -61,13 +61,7 @@
 
 ### Real-time Drawing & Prediction
 <!-- Add screenshot or GIF here -->
-<p align="center">
-  <br>
-    <img width="1407" height="816" alt="image" src="https://github.com/user-attachments/assets/434f59b1-972d-480b-958b-fc2d1869e160" />
-  <em>Draw in real-time and watch the network respond</em>
-</p>
-
-### Interactive Network Visualization
+### Interactive Network Visualization in Real Time
 <!-- Add screenshot or GIF here -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/757508ec-d310-4c94-9238-58bb605b809c" alt="Demo" width="800">
@@ -76,23 +70,12 @@
   <em>Drag nodes, hover for effects, see signal flow</em>
 </p>
 
-### Particle Flow System
-<!-- Add screenshot or GIF here -->
-<p align="center">
-  <img src="docs/images/particles.gif" alt="Particle flow" width="800">
-  <br>
-  <em>Animated particles travel along active connections</em>
-</p>
-
 ### Prediction Examples
 <!-- Add grid of examples here -->
 <p align="center">
-  <img src="docs/images/example_sun.png" alt="Sun prediction" width="200">
-  <img src="docs/images/example_cat.png" alt="Cat prediction" width="200">
-  <img src="docs/images/example_tree.png" alt="Tree prediction" width="200">
-  <img src="docs/images/example_star.png" alt="Star prediction" width="200">
+  <img width="1402" height="809" alt="image" src="https://github.com/user-attachments/assets/1b10656f-abd8-4652-98f4-a301a8400945" />
+  <img width="1407" height="816" alt="image" src="https://github.com/user-attachments/assets/434f59b1-972d-480b-958b-fc2d1869e160" />
   <br>
-  <em>Examples: Sun (99.8%), Cat (97.2%), Tree (94.5%), Star (98.1%)</em>
 </p>
 
 ---
