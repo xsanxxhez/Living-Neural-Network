@@ -1,4 +1,4 @@
-# 🧠 Living Neural Network Visualizer
+# Living Neural Network Visualizer
 
 > **An interactive, real-time CNN visualization system with Jarvis-style aesthetics**
 
@@ -7,7 +7,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
 
 [Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Architecture](#-architecture)
 
@@ -15,49 +14,31 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 **Living Neural Network** is an interactive visualization tool that lets you **see how a Convolutional Neural Network thinks in real-time**. Draw sketches and watch as signals flow through the network, nodes light up with activations, and the model predicts what you drew.
 
 ### What Makes It Special
 
-- 🎨 **Real-time predictions** while you draw (no button press needed)
-- 🖱️ **Interactive visualization** - drag nodes, hover for effects
-- ⚡ **Smooth animations** between prediction states
-- 🌊 **Particle flow system** showing signal propagation
-- 🎮 **Jarvis-style futuristic UI** with neon aesthetics
-- 🧠 **Custom CNN** trained from scratch on QuickDraw dataset
+-  **Real-time predictions** while you draw (no button press needed)
+- **Interactive visualization** - drag nodes, hover for effects
+- **Smooth animations** between prediction states
+- **Particle flow system** showing signal propagation
+- **Custom CNN** trained from scratch on QuickDraw dataset
 
 ---
 
-## ✨ Features
-
-### Phase 1: Foundation
-- ✅ Basic CNN architecture (3 conv layers + 2 FC layers)
-- ✅ QuickDraw dataset integration
-- ✅ Training pipeline with validation
-
-### Phase 2: Static Visualization
-- ✅ Tkinter-based drawing canvas
-- ✅ Real CNN inference
-- ✅ Top-5 predictions with confidence bars
-
-### Phase 3: Jarvis Edition
-- ✅ Futuristic dark space theme
-- ✅ Neural network graph visualization
-- ✅ Node coloring based on activations
-- ✅ Connection intensity mapping
-
-### Phase 4: Interactive & Real-time ⭐ **CURRENT**
-- ✅ Real-time predictions (300ms updates)
-- ✅ Drag & drop nodes
-- ✅ Hover effects with gradient glow
-- ✅ Animated particle flow
-- ✅ Smooth interpolation between states
+## Features
+### Interactive & Real-time **CURRENT**
+- Real-time predictions (300ms updates)
+- Drag & drop nodes
+- Hover effects with gradient glow
+- Animated particle flow
+- Smooth interpolation between states
 
 ---
 
-## 🎬 Demo
+## Demo
 
 ### Real-time Drawing & Prediction
 <!-- Add screenshot or GIF here -->
@@ -80,7 +61,7 @@
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 ```bash
@@ -110,7 +91,7 @@ requests>=2.28.0
 
 ---
 
-## 📦 Quick Start
+##  Quick Start
 
 ### 1. Download & Prepare Data
 ```bash
@@ -136,7 +117,7 @@ python sketch_recognizer_phase4_fixed.py
 
 ---
 
-## 🎮 Usage
+## Usage
 
 ### Controls
 
@@ -157,7 +138,7 @@ python sketch_recognizer_phase4_fixed.py
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ### Neural Network Structure
 
@@ -222,7 +203,7 @@ Drawing Canvas → Preprocessing (28×28) → CNN Inference
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 ### Training Results
 
@@ -258,7 +239,7 @@ Drawing Canvas → Preprocessing (28×28) → CNN Inference
 
 ---
 
-## 🎨 Color Scheme & Design
+## Color Scheme & Design
 
 ### Neon Palette (Jarvis-inspired)
 ```python
@@ -279,36 +260,9 @@ High (1.0)    →  Purple      (#c455ff)
 
 ---
 
-## 📁 Project Structure
 
-```
-living-neural-network/
-│
-├── train_quickdraw.py              # Training script
-├── sketch_recognizer_phase4_fixed.py  # Main visualizer
-├── quickdraw_model.pth             # Trained model (after training)
-│
-├── docs/
-│   └── images/                     # Screenshots & demos
-│       ├── demo_drawing.gif
-│       ├── network_viz.png
-│       ├── particles.gif
-│       └── confusion_matrix.png
-│
-├── data/
-│   └── quickdraw/                  # Downloaded dataset
-│       ├── cat.npy
-│       ├── sun.npy
-│       └── ...
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
 
----
-
-## 🔬 Technical Details
+## Technical Details
 
 ### Layer-by-Layer Breakdown
 
@@ -351,7 +305,7 @@ living-neural-network/
 
 ---
 
-## 🛠️ Customization
+## Customization
 
 ### Adding New Classes
 
@@ -395,7 +349,7 @@ NEON_PURPLE = "#your_color"
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Nodes appear in corner
 **Issue:** Canvas not sized before layout computation  
@@ -422,7 +376,7 @@ python train_quickdraw.py --epochs 10
 
 ---
 
-## 📚 Learning Resources
+## Learning Resources
 
 ### Understanding CNNs
 - [CS231n: CNNs for Visual Recognition](http://cs231n.stanford.edu/)
@@ -438,7 +392,7 @@ python train_quickdraw.py --epochs 10
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how:
 
@@ -468,14 +422,13 @@ Contributions are welcome! Here's how:
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
 MIT License
 
-Copyright (c) 2026 [Your Name]
+Copyright (c) 2026 Aheyenka Aleksandr
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -484,12 +437,21 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-[Full MIT License text...]
-```
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Google QuickDraw Dataset** - Training data
 - **PyTorch Team** - Deep learning framework
@@ -497,27 +459,8 @@ furnished to do so, subject to the following conditions:
 - **CS231n** - CNN architecture inspiration
 - **Jarvis (Iron Man)** - UI design inspiration
 
----
 
-## 📧 Contact
-
-**Project Maintainer:** [Your Name]
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-
----
-
-## ⭐ Star History
-
-<p align="center">
-  <img src="https://api.star-history.com/svg?repos=yourusername/living-neural-network&type=Date" alt="Star History Chart">
-</p>
-
----
-
-## 🚀 Roadmap
+## Roadmap
 
 ### v2.0 (Planned)
 - [ ] 3D visualization mode
@@ -537,7 +480,6 @@ furnished to do so, subject to the following conditions:
 
 <div align="center">
 
-### Made with ❤️ and 🧠
 
 **If you found this project helpful, please consider giving it a ⭐!**
 
