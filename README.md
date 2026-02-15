@@ -62,9 +62,6 @@
 ### Real-time Drawing & Prediction
 <!-- Add screenshot or GIF here -->
 <p align="center">
-    ![Demo](https://github.com/user-attachments/assets/d6dc3162-4b80-446f-9197-85193ee1fe8f)
-
-
   <br>
   <em>Draw in real-time and watch the network respond</em>
 </p>
@@ -72,7 +69,7 @@
 ### Interactive Network Visualization
 <!-- Add screenshot or GIF here -->
 <p align="center">
-  <img src="docs/images/network_viz.png" alt="Network visualization" width="800">
+  <img src="https://github.com/user-attachments/assets/d6f1b6f9-3bae-46b7-ad6d-a092cda82a35" alt="Demo" width="800">
   <br>
   <em>Drag nodes, hover for effects, see signal flow</em>
 </p>
