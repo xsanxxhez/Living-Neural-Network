@@ -69,7 +69,8 @@
 ### Interactive Network Visualization
 <!-- Add screenshot or GIF here -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d6f1b6f9-3bae-46b7-ad6d-a092cda82a35" alt="Demo" width="800">
+  <img src="https://github.com/user-attachments/assets/757508ec-d310-4c94-9238-58bb605b809c" alt="Demo" width="800">
+
   <br>
   <em>Drag nodes, hover for effects, see signal flow</em>
 </p>
